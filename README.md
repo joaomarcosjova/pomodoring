@@ -1,4 +1,3 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 
 <a name="readme-top"></a>
 
@@ -19,7 +18,6 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -31,11 +29,7 @@
     Simple Pomodoro Timer
     <br />
     <br />
-    <a href="https://birkaany-pomodoro-app.vercel.app/">View Demo</a>
-    ·
-    <a href="https://github.com/birkaany/pomodoro-app/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/birkaany/pomodoro-app/issues">Request Feature</a>
+    <a href="https://pomodoring.netlify.app/">View Demo</a>
   </p>
 </div>
 
@@ -80,9 +74,8 @@ This project developed with React and styled with Tailwindcss.
 
 ## <strong>Contact<strong>
 
-Birkan Yılmaz - [@twitter](https://twitter.com/adimcikmis9a) - birkanyilmaz41@gmail.com
+Birkan Yılmaz - [@linkedin](https://linkedin.com/joaomarcosjova) 
 
-Project Link: [https://github.com/birkaany/pomodoro-app/](https://github.com/birkaany/pomodoro-app)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
