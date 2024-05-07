@@ -52,7 +52,8 @@
 
 ## <strong>Design</strong>
 
-On this project, I used one of the frondendmentor challenge as reference. I followed the jpeg files to code as close as possible to reference design.
+Hello friends this is a simple but efficient ReactJs Pomodoro project.
+I used one of the frondend mentor challenge as reference. I followed the jpeg files to code as close as possible to reference design.
 
 <br/>
 
