@@ -42,7 +42,7 @@
 ![https://i.hizliresim.com/s7odewh.png](https://i.hizliresim.com/s7odewh.png)
 
 
-
+The Pomodoro Technique was developed by Francesco Cirillo in the late 80s as a study method while he was in college. He used a kitchen timer in the shape of a tomato (a pomodoro in Italian) to break his work into to 25-minute chunks. After 25 minutes of work, he would set a new timer for 5 minutes and take a break.
 
 <br/>
 
@@ -85,7 +85,7 @@ This project developed with React and styled with Tailwindcss.
 
 ## <strong>Contact<strong>
 
-Marcos Jova - [@linkedin](https://linkedin.com/joaomarcosjova) 
+Marcos Jova - [@linkedin](https://linkedin.com/in/joaomarcosjova) 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
