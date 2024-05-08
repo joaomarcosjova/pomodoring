@@ -83,9 +83,33 @@ This project developed with React and styled with Tailwindcss.
 <br/>
 <!-- CONTACT -->
 
-## <strong>Contact<strong>
 
-Marcos Jova - [@linkedin](https://linkedin.com/in/joaomarcosjova) 
+## Deploying as PWA
+
+1. Host your project on a static file hosting service (e.g., Netlify, Vercel, GitHub Pages).
+2. Ensure the `manifest.webmanifest` is configured correctly for PWA features.
+3. Access your app through a browser on your mobile device.
+4. Add it to the home screen when prompted.
+
+
+## Contribution
+
+Contributions to Parrot Learn are welcome! If you find any issues or have suggestions for improvements, please feel free to submit a pull request or open an issue on the GitHub repository.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Acknowledgements
+
+Parrot Learn was created with love by **JOAO MARCOS JOVA**.
+
+Linkedin - https://www.linkedin.com/in/joaomarcosjova/
+
+Github - https://github.com/joaomarcosjova/
+
+Instagram - https://www.instagram.com/j.marcosjova/
+
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
